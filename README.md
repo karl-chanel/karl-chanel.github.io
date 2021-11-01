@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## my public github pages
 
 You can use the [editor on GitHub](https://github.com/karl-chanel/karl-chanel.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
